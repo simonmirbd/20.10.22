@@ -24,3 +24,7 @@ http://195.154.185.179:80/xx_prive_tv/index.m3u8
 http://91.215.188.171:8000/play/172008
 #EXTINF:-1,Русская ночь
 http://91.215.188.171:8000/play/360
+#EXTINF:-1 group-title="Без группы",Extasy 4K
+http://213.81.133.133:8080/extasy4k/index.m3u8
+#EXTINF:-1 group-title="Взрослые 18+🏹♂💑🔞 XXX",PinkoTV
+http://93.152.174.144:4000/play/pinkotv/index.m3u8
